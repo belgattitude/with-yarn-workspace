@@ -1,5 +1,5 @@
-import foo from 'foo'
-import Bar from 'bar'
+import foo from '@package/foo'
+import Bar from '@package/bar'
 
 export default function Home() {
   return (
