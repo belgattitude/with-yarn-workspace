@@ -2,6 +2,13 @@
   "name": "@package/bar",
   "version": "1.0.0",
   "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.9.45",
+    "@types/node": "^14.0.27"
+  },
+  "dependencies": {
+    "typescript": "^3.9.7"
+  },
   "peerDependencies": {
     "react": "^16.0.0"
   }

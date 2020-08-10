@@ -19,5 +19,5 @@
     "jsx": "preserve",
   },
   "exclude": ["dist", ".next", "out"],
-  "include": ["next-env.d.ts",  "**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"],
+  "include": ["next-env.d.ts",  "**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"]
 }
